@@ -13,12 +13,13 @@ I am also passionate about web technologies and interested in formal verificatio
 
 ## Publications
 
-* Emanuele Natale, Davide Ferre', Giordano Giambartolomei, Frédéric Giroire, Frederik Mallmann-Trenn. On the Sparsity of the Strong Lottery Ticket Hypothesis. In *Conference on Neural Information Processing Systems (NeurIPS)*, 2024. [ArXiv](https://arxiv.org/pdf/2410.14754)
+* Emanuele Natale, Davide Ferre', Giordano Giambartolomei, Frédéric Giroire, Frederik Mallmann-Trenn. On the Sparsity of the Strong Lottery Ticket Hypothesis. In *38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*. [ArXiv](https://arxiv.org/pdf/2410.14754)
 
-* Tiago da Silva Barros, Davide Ferre', Frederic Giroire, Ramon Aparicio-Pardo, Stephane Perennes. Scheduling Machine Learning Compressible Inference Tasks with Limited Energy Budget. In *53rd International Conference on Parallel Processing (ICPP)*, 2024. [ACM](https://dl.acm.org/doi/pdf/10.1145/3673038.3673106) 
+* Tiago da Silva Barros, Davide Ferre', Frederic Giroire, Ramon Aparicio-Pardo, Stephane Perennes. Scheduling Machine Learning Compressible Inference Tasks with Limited Energy Budget. In *53rd International Conference on Parallel Processing (ICPP 2024)*. [ACM](https://dl.acm.org/doi/pdf/10.1145/3673038.3673106) 
 
-* Cinzia Di Giusto, Davide Ferre', Étienne Lozes, Nicolas Nisse. Les systèmes faiblement synchrones avec trois machines sont Turing-complets. In *26èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel)*, 2024. [HAL](https://hal.science/hal-04551070/file/RPalgotel.pdf)
+* Cinzia Di Giusto, Davide Ferre', Etienne Lozes, Nicolas Nisse. Weakly Synchronous Systems with Three Machines Are Turing Powerful. In *17th International Conference on Reachability Problems (RP 2023)*. [ArXiv](https://arxiv.org/pdf/2308.10578)
 
-* Cinzia Di Giusto, Davide Ferre', Etienne Lozes, Nicolas Nisse. Weakly Synchronous Systems with Three Machines Are Turing Powerful. In *17th International Conference on Reachability Problems (RP)*, 2023. [ArXiv](https://arxiv.org/pdf/2308.10578)
+* Cinzia Di Giusto, Davide Ferre', Laetitia Laversa, Etienne Lozes. A Partial Order View of Message-Passing Communication Models. In *50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2023)*. [ACM](https://dl.acm.org/doi/pdf/10.1145/3571248). 
 
-* Cinzia Di Giusto, Davide Ferre', Laetitia Laversa, Etienne Lozes. A Partial Order View of Message-Passing Communication Models. In *50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL)*, 2023. [ACM](https://dl.acm.org/doi/pdf/10.1145/3571248). 
+<!--- National publications --->
+* Cinzia Di Giusto, Davide Ferre', Étienne Lozes, Nicolas Nisse. Les systèmes faiblement synchrones avec trois machines sont Turing-complets. In *26èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel 2024)*. [HAL](https://hal.science/hal-04551070/file/RPalgotel.pdf)
