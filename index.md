@@ -6,7 +6,7 @@ I am a PhD student at [CNRS](https://www.cnrs.fr/fr) (France), working in the [C
 
 ## Background
 
-I received my Bachelor's degree in Computer Science from the Università degli studi dell'Insubria in Varese (Italy), and then my Master's degree as a double degree between the [Università degli studi dell'Insubria](https://www.uninsubria.it/) (Italy) and the [Université Côte-d'Azur](https://univ-cotedazur.fr/) in Nice (France).
+I received my Bachelor's degree in Computer Science from the [Università degli studi dell'Insubria](https://www.uninsubria.it/) in Varese (Italy), and then my Master's degree as a double degree between the [Università degli studi dell'Insubria](https://www.uninsubria.it/) (Italy) and the [Université Côte-d'Azur](https://univ-cotedazur.fr/) in Nice (France).
 
 My main interests are machine learning, learning theory and the huge impact that AI will have in the coming years, both from a functional and environmental point of view.
 I am also passionate about web technologies and interested in formal verification methods.
