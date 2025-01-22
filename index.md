@@ -19,7 +19,7 @@ I am also passionate about web technologies and interested in formal verificatio
 
 * Cinzia Di Giusto, Davide Ferre', Etienne Lozes, Nicolas Nisse. Weakly Synchronous Systems with Three Machines Are Turing Powerful. In *17th International Conference on Reachability Problems (RP 2023)*. [ArXiv](https://arxiv.org/pdf/2308.10578)
 
-* Cinzia Di Giusto, Davide Ferre', Laetitia Laversa, Etienne Lozes. A Partial Order View of Message-Passing Communication Models. In *50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2023)*. [ACM](https://dl.acm.org/doi/pdf/10.1145/3571248). 
+* Cinzia Di Giusto, Davide Ferre', Laetitia Laversa, Etienne Lozes. A Partial Order View of Message-Passing Communication Models. In *50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2023)*. [ACM](https://dl.acm.org/doi/pdf/10.1145/3571248)
 
 <!--- National publications --->
 * Cinzia Di Giusto, Davide Ferre', Étienne Lozes, Nicolas Nisse. Les systèmes faiblement synchrones avec trois machines sont Turing-complets. In *26èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications (AlgoTel 2024)*. [HAL](https://hal.science/hal-04551070/file/RPalgotel.pdf)
